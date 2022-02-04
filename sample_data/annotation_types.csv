@@ -1,0 +1,7 @@
+id,name,description,enumeration,created_at,updated_at
+"1","Source reliability (binary)","Determines validity of source (website) at a binary scale with two options: reliable source and unreliable source.","{""value"": [""reliable"", ""unreliable""], ""source"": [""Media Bias Fact Check"", ""Informationisbeautiful.net"", ""OpenSources"", ""Dhoju et Al. (2019)"", ""Konspiratori.sk"", ""Refs""]}","2019-09-16 17:21:45.076762+02","2019-09-16 17:21:45.076762+02"
+"4","Fact-checking article to claim mapping","Determines mapping between fact-checking article and claim.","null","2019-10-07 20:50:19.306914+02","2019-10-07 20:50:19.306914+02"
+"2","Claim presence","Determines presence of claim in article.","{""value"": [""yes"", ""suggestive"", ""no""], ""score"": ""float""}","2019-10-01 17:11:22.12395+02","2019-10-01 17:11:22.12395+02"
+"3","Claim stance","Determines stance of an article to a claim.","{""value"": [""supporting"", ""contradicting"", ""neutral""], ""score"": ""float"", ""scores"": {""supporting"": ""float"", ""contradicting"": ""float"", ""neutral"": ""float""}}","2019-10-01 17:12:12.016824+02","2019-10-01 17:12:12.016824+02"
+"5","Sentence embedding","Contains precalculated sentence embeddings of related object (i.e. article).","null","2019-11-02 09:12:13.886847+01","2019-11-02 09:12:13.886847+01"
+"6","Article veracity","Aggregated information about veracity from article-claim pairs.","{""value"": [""true"", ""mostly-true"", ""mixed"", ""unknown"", ""mostly-false"", ""false""]}","2020-03-03 21:54:25.644968+01","2020-03-03 21:54:25.644968+01"

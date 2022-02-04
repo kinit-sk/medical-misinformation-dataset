@@ -1,0 +1,8 @@
+id,name,description,created_at,updated_at
+"8","Claim presence/stance annotation app","Expert-based annotation app for claim presence and stance annotation","2020-03-02 10:32:05.92346+01","2020-03-02 10:32:05.92346+01"
+"7","Update sentence embedding annotations task","Creates sentence embedding annotations for articles and claims.","2019-12-13 12:56:37.008465+01","2019-12-13 12:56:37.008465+01"
+"4","Claim-stance detection method","Detects article stance to a claim","2019-10-01 17:08:21.437651+02","2019-10-01 17:08:21.437651+02"
+"5","Fact-checking article to claim transformation method","Transforms fact-checking articles to claims with unification of ratings","2019-10-07 20:47:37.795021+02","2019-10-07 20:47:37.795021+02"
+"1","Expert-based source reliability evaluation","Validates source reliability by employing expert-based evaluation provided by Media Bias Fact Check, OpenSources, etc.","2019-09-16 17:21:42.020154+02","2019-09-16 17:21:42.020154+02"
+"6","Claim-presence detection method (IR and NN approach)","Detects claim presence in articles by employing NN (sentence-embedding) and information retrieval techniques.","2019-12-13 12:56:10.562248+01","2019-12-13 12:56:10.562248+01"
+"9","Article veracity aggregation method","Aggregates article - claim mappings and derives final article veracity","2020-03-03 21:52:38.137092+01","2020-03-03 21:52:38.137092+01"

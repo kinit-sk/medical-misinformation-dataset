@@ -9,7 +9,7 @@ The dataset is primarily intended to be used as a training and evaluation set fo
 
 Its novelty and our main contributions lie in (1) focus on medical news article and blog posts as opposed to social media posts or political discussions; (2) providing multiple modalities (beside full-texts of the articles, there are also images and videos), thus enabling research of multimodal approaches; (3) mapping of the articles to the fact-checked claims (with manual as well as predicted labels); (4) providing source credibility labels for 95% of all articles and other potential sources of weak labels that can be mined from the articles' content and metadata.
 
-The dataset is associated with the research paper <a href="#">"Monant Medical Misinformation Dataset: Mapping Articles to Fact-Checked Claims"</a> accepted and presented at ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR '22). 
+The dataset is associated with the research paper <a href="https://dl.acm.org/doi/10.1145/3477495.3531726?cid=81474695895">"Monant Medical Misinformation Dataset: Mapping Articles to Fact-Checked Claims"</a> accepted and presented at ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR '22). 
 
 This repository provides a small static sample of the dataset and the dataset's descriptive analysis in a form of Jupyter notebooks.
 
